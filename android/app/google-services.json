@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780217074868",
+    "project_id": "tchadone-app",
+    "storage_bucket": "tchadone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780217074868:android:59de837d7dddace04e83e1",
+        "android_client_info": {
+          "package_name": "com.tchadone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780217074868-qa21vifrh1osrb3ja0pdpecvdvmcc0d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7HBQsLaA-M9BoQF0iIUWHr48UnEX77g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780217074868-qa21vifrh1osrb3ja0pdpecvdvmcc0d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
